@@ -1,0 +1,23 @@
+{
+  "name": "Batch Generate Images From DALL-E",
+  "mod": 1699098234,
+  "min_point_version": 231000,
+  "max_point_version": 231000,
+  "branch_index": 4,
+  "disabled": false,
+  "config": {
+    "Source Field": "Prompt",
+    "Delimiter": " ",
+    "Search Queries": [
+      {
+        "Name": "DALL-E",
+        "URL": "{}",
+        "Field": "",
+        "Count": 1,
+        "Overwrite": "Skip",
+        "Width": -1,
+        "Height": 260
+      }
+    ]
+  }
+}

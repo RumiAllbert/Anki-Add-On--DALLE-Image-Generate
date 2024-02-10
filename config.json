@@ -1,0 +1,15 @@
+{
+  "Source Field": "Prompt",
+  "Delimiter": " ",
+  "Search Queries": [
+    {
+      "Name": "DALL-E",
+      "URL": "{}",
+      "Field": "",
+      "Count": 1,
+      "Width": -1,
+      "Height": 260,
+      "Overwrite": false
+    }
+  ]
+}
