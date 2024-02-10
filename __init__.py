@@ -15,7 +15,7 @@ import time
 import urllib.parse
 from distutils.spawn import find_executable
 
-import openai
+from openai import OpenAI
 import requests
 from anki.hooks import addHook
 from anki.lang import ngettext
